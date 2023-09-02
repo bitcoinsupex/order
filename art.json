@@ -1,5 +1,6 @@
 {
-"server":"ftpupload.net",
-"username":"epiz_34008572",
-"password":"dcaYkBihdOQVz"
+"server":"upload.bitcoinsupex.com",
+"username":"upload",
+"password":"upload",
+"path":"/home/upload"
 }
